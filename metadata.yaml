@@ -1,0 +1,31 @@
+_repo: Le-Cardinal-de-Richelieu_36416
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Corne, Hyacinthe
+    aliases:
+    - Corne, H. (Hyacinthe)
+    - Corne, Hyacinthe Marie Augustin
+    birthdate: 1802
+    deathdate: 1887
+    gutenberg_agent_id: '38256'
+    url: http://www.gutenberg.org/2009/agents/38256
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2011-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36416'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Richelieu, Armand Jean du Plessis, duc de, 1585-1642'
+- !lcc 'DC'
+- !lcsh 'France -- History -- Louis XIII, 1610-1643'
+title: Le Cardinal de Richelieu
+url: http://www.gutenberg.org/ebooks/36416
